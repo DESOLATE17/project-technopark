@@ -18,7 +18,7 @@ void delete_symbol(string& a) {
 
 int main() {
     system ("chcp 65001");
-    ifstream in("C:\\Users\\darya\\CLionProjects\\roject\\cmake-build-debug\\file1");
+    ifstream in("C:\\sibir_labs\\project-technopark\\cmake-build-debug\\file1.txt");
     vector <string> text;
     string tmp;
     while (!in.eof()) {

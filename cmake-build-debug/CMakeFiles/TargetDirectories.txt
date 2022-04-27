@@ -1,0 +1,3 @@
+C:/sibir_labs/project-technopark/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/sibir_labs/project-technopark/cmake-build-debug/CMakeFiles/project_technopark.dir
+C:/sibir_labs/project-technopark/cmake-build-debug/CMakeFiles/rebuild_cache.dir
